@@ -1,0 +1,1 @@
+`binwalk` extrahiert ein passwortgeschütztes zip (entpackbar mit 7z). Das Passwort steht am Ende der heruntergeladenen Bilddatei. im Zip ist ein Bild `thief.png` mit der Flag.

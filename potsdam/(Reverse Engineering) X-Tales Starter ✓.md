@@ -1,0 +1,1 @@
+in der `challenge.c` findet man einen Hash Algorithmus, dieser muss dazu gebracht werden 511 für das übergebene Passwort zu ermitteln. Eine erweiterung des Quelltextes um eine Ausgabe des erreichneten Hashes und ein wenig probieren brachte die Lösung `./challenge "                 @@?"` und die Flagge `flag{hashme::XBsrdcrEKkPQ}` 

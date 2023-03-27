@@ -1,0 +1,1 @@
+Es gibt eine SQLi schwachstelle im Suchfeld `a' or 1=1--` listet alle Einträge (auch die flag) auf. 

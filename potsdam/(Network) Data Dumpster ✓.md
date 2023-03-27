@@ -1,0 +1,1 @@
+Mit wireshark die PCAP Datei öffnen, den TCP-Stream des CUPS Auftrags in einer Datei speichern, die CUPS-Anweisungen am Anfang wegwerfen und die PS-Datei mit ghostview öffnen. Im Dokument steht die Flag (oder der Ort an dem man die Flag einsehen kann)

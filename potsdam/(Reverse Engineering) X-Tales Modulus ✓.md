@@ -1,0 +1,1 @@
+Ein kurzer Blick mit Ghidra verrät, dass erstens die env Variable SOME_KEY gesetzt sein muss und zweiten argv[1]= 485 sein muss. `SOME_KEY="FOO" ./challenge 485` gibt uns die Flagge `flag{ModFun::1Rt1kpBhcvAY}`

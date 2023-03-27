@@ -1,0 +1,1 @@
+man nimmt den Foxit PDF Editor und löscht die schwarzen Formen, schon sieht man die Flag

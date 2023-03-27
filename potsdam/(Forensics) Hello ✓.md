@@ -1,0 +1,1 @@
+die `exe` datei ist auch ein mbr record. ausgeführt mit `qemu-system-x86_64 -drive format=raw,file=./exe` erhält man einen QR-Code welcher die Flag enthält.
